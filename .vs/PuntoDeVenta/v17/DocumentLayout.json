@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lromero\\Documents\\cursoCSharp\\PuntoDeVenta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{252C4434-6196-4730-9456-9345FDFE6B0B}|PuntoDeVenta\\PuntoDeVenta.csproj|c:\\users\\lromero\\documents\\cursocsharp\\puntodeventa\\puntodeventa\\ventanaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{252C4434-6196-4730-9456-9345FDFE6B0B}|PuntoDeVenta\\PuntoDeVenta.csproj|solutionrelative:puntodeventa\\ventanaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{252C4434-6196-4730-9456-9345FDFE6B0B}|PuntoDeVenta\\PuntoDeVenta.csproj|C:\\Users\\lromero\\Documents\\cursoCSharp\\PuntoDeVenta\\puntodeventa\\ventanaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{252C4434-6196-4730-9456-9345FDFE6B0B}|PuntoDeVenta\\PuntoDeVenta.csproj|solutionrelative:puntodeventa\\ventanaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6575558F-9723-4294-94BC-516AAF76C37A}|Datos\\Datos.csproj|C:\\Users\\lromero\\Documents\\cursoCSharp\\PuntoDeVenta\\datos\\conexionsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6575558F-9723-4294-94BC-516AAF76C37A}|Datos\\Datos.csproj|solutionrelative:datos\\conexionsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488825E0-77B9-4F80-B7CD-F6791B2429D0}|Negocios\\Negocios.csproj|C:\\Users\\lromero\\Documents\\cursoCSharp\\PuntoDeVenta\\negocios\\conexionsqln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488825E0-77B9-4F80-B7CD-F6791B2429D0}|Negocios\\Negocios.csproj|solutionrelative:negocios\\conexionsqln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ventanaPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\lromero\\Documents\\cursoCSharp\\PuntoDeVenta\\PuntoDeVenta\\ventanaPrincipal.cs",
+              "RelativeDocumentMoniker": "PuntoDeVenta\\ventanaPrincipal.cs",
+              "ToolTip": "C:\\Users\\lromero\\Documents\\cursoCSharp\\PuntoDeVenta\\PuntoDeVenta\\ventanaPrincipal.cs",
+              "RelativeToolTip": "PuntoDeVenta\\ventanaPrincipal.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAwwHYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T09:43:49.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ventanaPrincipal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lromero\\Documents\\cursoCSharp\\PuntoDeVenta\\PuntoDeVenta\\ventanaPrincipal.cs",
+              "RelativeDocumentMoniker": "PuntoDeVenta\\ventanaPrincipal.cs",
+              "ToolTip": "C:\\Users\\lromero\\Documents\\cursoCSharp\\PuntoDeVenta\\PuntoDeVenta\\ventanaPrincipal.cs [Design]",
+              "RelativeToolTip": "PuntoDeVenta\\ventanaPrincipal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T08:57:14.569Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "conexionSQLN.cs",
+              "DocumentMoniker": "C:\\Users\\lromero\\Documents\\cursoCSharp\\PuntoDeVenta\\Negocios\\conexionSQLN.cs",
+              "RelativeDocumentMoniker": "Negocios\\conexionSQLN.cs",
+              "ToolTip": "C:\\Users\\lromero\\Documents\\cursoCSharp\\PuntoDeVenta\\Negocios\\conexionSQLN.cs",
+              "RelativeToolTip": "Negocios\\conexionSQLN.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAuwE8AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T10:35:03.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "conexionSQL.cs",
+              "DocumentMoniker": "C:\\Users\\lromero\\Documents\\cursoCSharp\\PuntoDeVenta\\Datos\\conexionSQL.cs",
+              "RelativeDocumentMoniker": "Datos\\conexionSQL.cs",
+              "ToolTip": "C:\\Users\\lromero\\Documents\\cursoCSharp\\PuntoDeVenta\\Datos\\conexionSQL.cs",
+              "RelativeToolTip": "Datos\\conexionSQL.cs",
+              "ViewState": "AQIAAKgAAAAAAAAAAAAgwLsAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T10:20:55.565Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
